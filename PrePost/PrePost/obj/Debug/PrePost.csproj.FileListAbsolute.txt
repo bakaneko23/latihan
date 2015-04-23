@@ -1,0 +1,6 @@
+D:\VSDekstop\PrePost\PrePost\bin\Debug\PrePost.exe.config
+D:\VSDekstop\PrePost\PrePost\bin\Debug\PrePost.exe
+D:\VSDekstop\PrePost\PrePost\bin\Debug\PrePost.pdb
+D:\VSDekstop\PrePost\PrePost\obj\Debug\PrePost.csprojResolveAssemblyReference.cache
+D:\VSDekstop\PrePost\PrePost\obj\Debug\PrePost.exe
+D:\VSDekstop\PrePost\PrePost\obj\Debug\PrePost.pdb

@@ -1,0 +1,6 @@
+D:\VSDekstop\DemoModulus\DemoModulus\bin\Debug\DemoModulus.exe.config
+D:\VSDekstop\DemoModulus\DemoModulus\bin\Debug\DemoModulus.exe
+D:\VSDekstop\DemoModulus\DemoModulus\bin\Debug\DemoModulus.pdb
+D:\VSDekstop\DemoModulus\DemoModulus\obj\Debug\DemoModulus.csprojResolveAssemblyReference.cache
+D:\VSDekstop\DemoModulus\DemoModulus\obj\Debug\DemoModulus.exe
+D:\VSDekstop\DemoModulus\DemoModulus\obj\Debug\DemoModulus.pdb

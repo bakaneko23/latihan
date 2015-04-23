@@ -1,0 +1,12 @@
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.exe.config
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.exe
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.pdb
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.csprojResolveAssemblyReference.cache
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.exe
+D:\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.pdb
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.exe.config
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.exe
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.pdb
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.exe
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\bin\Debug\DemoTipeValueVsReference.pdb
+D:\VSDekstop\DemoTipeValueVsReference\DemoTipeValueVsReference\obj\Debug\DemoTipeValueVsReference.csprojResolveAssemblyReference.cache

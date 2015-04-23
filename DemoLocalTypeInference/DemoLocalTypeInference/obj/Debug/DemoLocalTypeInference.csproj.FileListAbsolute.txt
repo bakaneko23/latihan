@@ -1,0 +1,6 @@
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.exe.config
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.exe
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\bin\Debug\DemoLocalTypeInference.pdb
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.csprojResolveAssemblyReference.cache
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.exe
+D:\VSDekstop\DemoLocalTypeInference\DemoLocalTypeInference\obj\Debug\DemoLocalTypeInference.pdb

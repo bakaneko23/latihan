@@ -1,0 +1,5 @@
+D:\VSDekstop\DemoRelationalAndLogical\DemoRelationalAndLogical\bin\Debug\DemoRelationalAndLogical.exe.config
+D:\VSDekstop\DemoRelationalAndLogical\DemoRelationalAndLogical\bin\Debug\DemoRelationalAndLogical.exe
+D:\VSDekstop\DemoRelationalAndLogical\DemoRelationalAndLogical\bin\Debug\DemoRelationalAndLogical.pdb
+D:\VSDekstop\DemoRelationalAndLogical\DemoRelationalAndLogical\obj\Debug\DemoRelationalAndLogical.exe
+D:\VSDekstop\DemoRelationalAndLogical\DemoRelationalAndLogical\obj\Debug\DemoRelationalAndLogical.pdb

@@ -1,0 +1,6 @@
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\bin\Debug\DemoEnumeration2.exe.config
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\bin\Debug\DemoEnumeration2.exe
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\bin\Debug\DemoEnumeration2.pdb
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\obj\Debug\DemoEnumeration2.csprojResolveAssemblyReference.cache
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\obj\Debug\DemoEnumeration2.exe
+D:\VSDekstop\DemoEnumeration2\DemoEnumeration2\obj\Debug\DemoEnumeration2.pdb
